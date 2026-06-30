@@ -1,6 +1,6 @@
 # Blazor DataGrid — Customize Default Scrollbar
 
-A sample Blazor application demonstrating how to customize the appearance of scrollbars in the Blazor DataGrid component using CSS styling.
+A sample Blazor application demonstrating how to customize the appearance of scrollbars in the [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component using CSS styling.
 
 ## Overview
 
@@ -11,8 +11,6 @@ The sample includes:
 - Custom scrollbar styling using CSS pseudo-elements
 - Scrollbar styling for webkit browsers (Chrome, Safari, Edge)
 - Responsive layout with fixed dimensions
-
-**Online example**: https://blazor.syncfusion.com/demos/grid/overview?theme=bootstrap5
 
 ## Features
 
